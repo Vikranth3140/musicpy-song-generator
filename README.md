@@ -1,6 +1,6 @@
 # Musicpy Song Generator
 
-This code uses the musicpy library to generate a simple song from code. The song consists of a melody, chord progression, and drum pattern. The synthesizer plays the song.
+This code uses the [musicpy library](https://pypi.org/project/musicpy/) to generate a simple song from code. The song consists of a melody, chord progression, and drum pattern. The synthesizer plays the song.
 
 ## Features
 
