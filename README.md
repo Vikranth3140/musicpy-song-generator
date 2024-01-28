@@ -24,12 +24,12 @@ To use this code, you will need to have the musicpy library installed. You can i
 
 - Change Directory to the system:
     ```bash
-    cd Course-Grade-Evaluation-System
+    cd musicpy-song-generator
     ```
 
 - Execute the main script:
     ```bash
-    python main.py
+    python music.py
     ```
 
 ## Contributing
